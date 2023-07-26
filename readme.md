@@ -1,3 +1,6 @@
+# MicroFrontend-Angular-React-WebSocket
+
+
 Codificação em React para exemplo de uso WebSocket em MicroFrontend de como usar WebSockets em uma aplicação React. O código demonstra a criação de um hook personalizado para lidar com a conexão WebSocket e a utilização deste hook em um componente funcional. Uso de WebSocket é um protocolo de comunicação que fornece canais de comunicação bidirecionais.
 
 ## useWebSocket
